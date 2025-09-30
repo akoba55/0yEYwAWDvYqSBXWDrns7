@@ -1,6 +1,6 @@
 # ファイル名: sysmon_network_view.py
 
-# Sysmon イベントログ（Text,XML）からネットワークランキングもしくは宛先マップを描画するツール
+# Sysmonログ（Text,XML）からランキングもしくはマップを描画する
 
 ## 前提条件
 - SysmonイベントログからXML化したファイルがあること
